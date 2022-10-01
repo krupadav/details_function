@@ -1,4 +1,5 @@
 # details_function:
+
 Nested functions:function inside another function is nested function
 def outer():
     print('This is outer function')
